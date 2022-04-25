@@ -1,7 +1,7 @@
 ### Generador de contraseñas con python y django
-![](/img/one.png)
-![](/img/two.png)
-![](/img/three.png)
+![](https://github.com/KalevPineda/Projects/blob/main/Python/DjangoFramework/password-generator/img/one.png)
+![](https://github.com/KalevPineda/Projects/blob/main/Python/DjangoFramework/password-generator/img/two.png)
+![](https://github.com/KalevPineda/Projects/blob/main/Python/DjangoFramework/password-generator/img/three.png)
 Existe una pagina principal la cual se encarga de pedir al usuario los requerimeintos necesarios para generar una
 contraseña segura, como son:
 * Mayusculas
