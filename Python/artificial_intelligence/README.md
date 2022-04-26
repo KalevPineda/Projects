@@ -1,4 +1,5 @@
 #### Proyectos
+![](https://github.com/KalevPineda/Projects/blob/main/Python/artificial_intelligence/face_access_control/reco.png)
 1. **face_access_control**
     - Permite indenticar rostros de que cargan inicialmente en el sistema, este sistema es una prueba de aplicación, puede ser extendido, pero no esta preparado para producción.
     
